@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [IMI.AI](http://imi.ai/)
 
-- 👯 I’m looking to collaborate on **or an AI research or a structured, open-sourced project**
+- 👯 I’m looking to collaborate on **an AI research or a structured, open-sourced project**
 
 - 🤝 I’m looking for help with **an AI project, especially health care related**
 
