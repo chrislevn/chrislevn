@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Le</h1>
-<h3 align="center">A good teammate/leader who can learn and adapt quickly 🙆 - a passionate AI Engineer</h3>
+<h3 align="center">- A passionate AI Engineer and a good teammate/leader who can learn and adapt quickly 🙆 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislevn" alt="chrislevn" /> </p>
 
