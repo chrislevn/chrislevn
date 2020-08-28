@@ -31,6 +31,8 @@
 <details> 
 <summary><strong> 👀  Take a look </strong></summary>
 <img src="https://i.imgur.com/4ydNjSB.jpg"/>
+<img src="https://images.unsplash.com/photo-1598629978834-e14f33a0fe57?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"/>
+<img src="https://images.unsplash.com/photo-1552125756-533f10251f0d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"/>
 </details>
 
 
