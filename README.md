@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://christopherle.com/" target="blank"> Christopher Le </a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://christopherle.com/" target="_blank"> Christopher Le </a></h1>
 
 ![Source: DevianArt](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif)
 <h3 align="center">- A passionate AI Engineer and a good teammate/leader who can learn and adapt quickly 🙆 </h3>
@@ -82,4 +82,4 @@
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrislevn&show_icons=true" alt="chrislevn" /></p>
 
-Let's connect! <a href="https://forms.gle/UHmoHwvQoEqqUiYY9"> Click here </a> for future collaboration! (Coffee is on me ☕).</br>
+Let's connect! <a href="https://forms.gle/UHmoHwvQoEqqUiYY9" target="_blank"> Click here </a> for future collaboration! (Coffee is on me ☕).</br>
