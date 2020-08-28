@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Christopher Le</h1>
+
+
 <h3 align="center">- A passionate AI Engineer and a good teammate/leader who can learn and adapt quickly 🙆 </h3>
+
+<p align="center">
+<a href="https://medium.com/@locvicvn1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@locvicvn1234" height="30" width="30" /></a>
+<a href="https://instagram.com/locvicvn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="locvicvn" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/chrislevn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrislevn" height="30" width="30" /></a>
+<a href="https://fb.com/honglocvn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="honglocvn" height="30" width="30" /></a>
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislevn" alt="chrislevn" /> </p>
 
@@ -18,6 +28,11 @@
 - 📫 How to reach me **locvicvn1234@gmail.com**
 
 - ⚡ Fun fact **I can take good photos 📷**
+<details> 
+<summary><strong> 👀  Take a look </strong></summary>
+<img src="https://i.imgur.com/4ydNjSB.jpg"/>
+</details>
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -66,11 +81,3 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrislevn&show_icons=true" alt="chrislevn" /></p>
-
-## Social media:
-<p align="left">
-<a href="https://linkedin.com/in/chrislevn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrislevn" height="30" width="30" /></a>
-<a href="https://fb.com/honglocvn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="honglocvn" height="30" width="30" /></a>
-<a href="https://instagram.com/locvicvn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="locvicvn" height="30" width="30" /></a>
-<a href="https://medium.com/@locvicvn1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@locvicvn1234" height="30" width="30" /></a>
-</p>
