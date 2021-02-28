@@ -62,4 +62,4 @@ BACK-END/DATABASE <br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrislevn&show_icons=true" alt="chrislevn" /></p>
 
-Let's connect! <a href="https://forms.gle/UHmoHwvQoEqqUiYY9" target="_blank"> Click here </a> for future collaboration! (Coffee is on me ☕).</br>
+Let's connect! <a href="https://www.linkedin.com/in/chrislevn/" target="_blank"> Click here </a> for future collaboration! (Coffee is on me ☕).</br>
