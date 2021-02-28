@@ -13,19 +13,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislevn" alt="chrislevn" /> </p>
 
-- 🔭 I’m currently working on [IMI.AI](http://imi.ai/)
+- 🔭 I’m currently working on [Coders Help Coders](https://github.com/chrislevn/CodersHelpCoders)
 
-- 👯 I’m looking to collaborate on **an AI research or a structured, open-sourced project**
+- 👯 I’m looking to a software engineer internship
 
-- 🤝 I’m looking for help with **an AI project, especially health care related**
-
-- 👨‍💻 All of my projects are available at [https://christopherle.com/](https://christopherle.com/)
+- 🤝 I’m looking for help with **an AI project, especially MLOps**
 
 - 📝 I regulary write articles on [https://medium.com/@locvicvn1234](https://medium.com/@locvicvn1234)
 
 - 💬 Ask me about **Data Structures and Algorithms, Artificial Intelligence, Career Advice**
 
-- 📫 How to reach me **locvicvn1234@gmail.com**
+- 📫 How to reach me **christopherle0711@gmail.com**
 
 - ⚡ Fun fact **I can take good photos 📷**
 <details> 
