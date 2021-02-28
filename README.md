@@ -43,43 +43,23 @@
 - [Letter to the “losers”](https://medium.com/@locvicvn1234/letter-to-the-losers-b476337b9b32?source=rss-3a221a3695f1------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Programming Language:
-<p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</p>
+FRONT-END/MOBILE <br />
+• Javascript,React/Redux <br /> 
+• HTML,CSS,Bootstrap <br />
+• Node.js,Redux,JQuery <br />
+• WebRTC,GoogleCloud <br />
+• Swift-iOS,Java-Android <br /> <br />
 
-### AI Frameworks:
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-</p>
+MACHINE LEARNING <br />
+• Python,Tensorflow <br />
+• OpenCV,Streamlit <br />
+• Seaborn,Pandas,Matplotlib <br /> <br />
 
+BACK-END/DATABASE <br />
+• MongoDB, Firebase.<br />
+• PHP,SQL. <br />
+• GoogleCloud,AWS. <br />
 
-### Mobile Frameworks:
-<p align="left">
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/>
-</p>
-
-### Web Frameworks:
-<p align="left">
-<img  src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-</p>
-
-### Backend and Database:
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrislevn&show_icons=true" alt="chrislevn" /></p>
 
 Let's connect! <a href="https://forms.gle/UHmoHwvQoEqqUiYY9" target="_blank"> Click here </a> for future collaboration! (Coffee is on me ☕).</br>
