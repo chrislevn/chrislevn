@@ -13,9 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislevn" alt="chrislevn" /> </p>
 
-- 🔭 I’m currently working on [Coders Help Coders](https://github.com/chrislevn/CodersHelpCoders)
-
-- 👯 I’m looking to a software engineer internship
+- 👯 I’m looking for a software engineer internship
 
 - 🤝 I’m looking for help with **an AI project, especially MLOps**
 
@@ -43,22 +41,9 @@
 - [Letter to the “losers”](https://medium.com/@locvicvn1234/letter-to-the-losers-b476337b9b32?source=rss-3a221a3695f1------2)
 <!-- BLOG-POST-LIST:END -->
 
-FRONT-END/MOBILE <br />
-• Javascript,React/Redux <br /> 
-• HTML,CSS,Bootstrap <br />
-• Node.js,Redux,JQuery <br />
-• WebRTC,GoogleCloud <br />
-• Swift-iOS,Java-Android <br /> <br />
-
-MACHINE LEARNING <br />
-• Python,Tensorflow <br />
-• OpenCV,Streamlit <br />
-• Seaborn,Pandas,Matplotlib <br /> <br />
-
-BACK-END/DATABASE <br />
-• MongoDB, Firebase.<br />
-• PHP,SQL. <br />
-• GoogleCloud,AWS. <br />
+Front-end: React, Redux, Javascript, HTML, CSS, Bootstrap, WebRTC, Heroku  
+Back-end/Database: Python, Flask, NodeJS, RestAPI, Firebase, Google Cloud, MongoDB, SQL. Tensorflow, Open-CV, YOLOv5.
+Software Development: React Native, Swift, Git.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrislevn&show_icons=true" alt="chrislevn" /></p>
 
