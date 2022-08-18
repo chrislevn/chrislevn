@@ -13,21 +13,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislevn" alt="chrislevn" /> </p>
 
-- 👯 I’m looking for a software engineer internship
+- 👯 I’m looking for a postion in software engineer or developer relations engineer
 
-- 🤝 I’m learning about **Backend, MLOps**. In other words, how to scale Machine Learning projects into production. 
-
-- 💬 Ask me about **Data Structures and Algorithms, Artificial Intelligence, Career Advice**
+- 🤝 I’m good at Cloud, Full-stack development, and AI. 
 
 - 📫 How to reach me **christopherle0711@gmail.com**
 
 - ⚡ Fun fact **I can take good photos 📷**
-
-Front-end: React, Redux, Javascript, HTML, CSS, Bootstrap, WebRTC, Heroku  
-Back-end/Database: Python, Flask, NodeJS, RestAPI, Firebase, Google Cloud, MongoDB, SQL. Tensorflow, Open-CV, YOLOv5.
-Software Development: React Native, Swift, Git.
-Project Management: Trello, Slack, Figma, Github.
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrislevn&show_icons=true" alt="chrislevn" /></p>
 
 Let's connect! <a href="https://www.linkedin.com/in/chrislevn/" target="_blank"> Click here </a> for future collaboration! (Coffee is on me ☕).</br>
