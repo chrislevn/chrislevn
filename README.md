@@ -5,9 +5,7 @@
 
 <p align="center">
 <a href="https://medium.com/@locvicvn1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@locvicvn1234" height="30" width="30" /></a>
-<a href="https://instagram.com/locvicvn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="locvicvn" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/chrislevn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrislevn" height="30" width="30" /></a>
-<a href="https://fb.com/honglocvn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="honglocvn" height="30" width="30" /></a>
 </p>
 
 
@@ -15,10 +13,10 @@
 
 - 👯 I’m looking for a postion in software engineer or developer relations engineer
 
-- 🤝 I’m good at Cloud, Full-stack development, and AI. 
+- 🤝 I’m good at Cloud, Full-stack development, AI, and Data Analytics. 
 
 - 📫 How to reach me **christopherle0711@gmail.com**
 
 - ⚡ Fun fact **I can take good photos 📷**
 
-Let's connect! <a href="https://www.linkedin.com/in/chrislevn/" target="_blank"> Click here </a> for future collaboration! (Coffee is on me ☕).</br>
+Let's connect! <a href="https://www.linkedin.com/in/chrislevn/" target="_blank">.
