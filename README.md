@@ -13,7 +13,7 @@
 
 - 👯 I’m looking for a postion in software engineer or developer relations engineer
 
-- 🤝 I’m good at Cloud, Full-stack development, AI, and Data Analytics. 
+- 🤝 I’m interested in FinOps. 
 
 - 📫 How to reach me **christopherle0711@gmail.com**
 
