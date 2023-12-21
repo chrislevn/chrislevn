@@ -13,10 +13,6 @@
 
 - 👯 I’m looking for a postion in software engineer or developer relations engineer
 
-- 🤝 I’m interested in FinOps. 
-
 - 📫 How to reach me **christopherle0711@gmail.com**
-
-- ⚡ Fun fact **I can take good photos 📷**
 
 Let's connect! <a href="https://www.linkedin.com/in/chrislevn/" target="_blank">.
